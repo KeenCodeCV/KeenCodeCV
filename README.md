@@ -38,6 +38,30 @@ I aim to apply my skills to create practical and effective software and technolo
 
 ---
 
+<h3 align="left">🏆 Achievements</h3>
+
+- 🎤 Presented at **Thailand Research Expo 2025** (Real-time PM0.1 Monitoring & Forecasting System)  
+- 📚 Senior Project: *Machine Learning Model for Indoor PM0.1 Prediction*  
+- 📜 Certifications: Google Cloud Fundamentals, Cisco Networking Essentials  
+
+---
+
+<h3 align="left">🤝 Organizations</h3>
+
+- Member of **Walailak University IT Club**  
+- Contributor at [Open Source Project Name](#)  
+- GitHub Organization: <a href="https://github.com/github"><img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="25"/> GitHub</a>  
+
+---
+
+<h3 align="left">💖 Sponsoring</h3>
+
+If you like my work, consider supporting me:  
+- [GitHub Sponsors](https://github.com/sponsors/KeenCodeCV)  
+- [Buy Me a Coffee](https://www.buymeacoffee.com/yourname) ☕  
+
+---
+
 <h3 align="left">🛠️ Skills</h3>
 
 - **Web & Mobile Development**: HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js, Angular, React Native  
@@ -68,7 +92,6 @@ I aim to apply my skills to create practical and effective software and technolo
 
 <h3 align="left">🚀 Languages and Tools</h3>
 <p align="center">
-  <!-- ใช้โค้ด Languages and Tools ของคุณตามที่ให้มา -->
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
