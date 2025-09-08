@@ -57,7 +57,8 @@ I aim to apply my skills to create practical and effective software and technolo
 - **Webapp CRUD**:  
   - Global EV Sales (2010–2024)  
   - Hospital Patient Data Management  
-  - Stress Assessment with music & games  
+  - Stress Assessment with music & games
+- **Testing & Automation**: Webapp testing using Postman and Insomnia to validate APIs, and Selenium to verify the accuracy and functionality of CRUD operations
 - **Chatbots**:  
   - LINE Bot for sugar intake calculation & summary reports  
   - Discord Bot for external alerts  
