@@ -53,7 +53,7 @@ I aim to apply my skills to create practical and effective software and technolo
 <h3 align="left">🚀 Projects</h3>
 
 - **Senior Project**: Machine Learning Model for Indoor PM0.1 Prediction using outdoor factors  
-- **Thailand Research Expo 2025**: Real-time PM0.1 Monitoring & Forecasting System  
+- **Thailand Research Expo 2025**: Real-time PM0.1 Monitoring & Prediction System  
 - **Webapp CRUD**:  
   - Global EV Sales (2010–2024)  
   - Hospital Patient Data Management  
