@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thanakrit Sricharung</h1>
 <h3 align="center">
-My name is Thanakrit Sricharung, a student at the School of Informatics, majoring in Information Technology and Digital Innovation, Walailak University
+Third-year student at the School of Informatics, Walailak University | Major in Information Technology and Digital Innovation
 </h3>
 
 <p align="center">
-  🌱 Passionate about <b>Full-stack Development</b>, <b>IoT Systems</b>, and <b>Machine Learning</b><br/>
-  🏆 Research presenter at <b>Thailand Research Expo 2025</b><br/>
-  🚀 Currently working on <i>Hospital CRUD Systems, Stress Check Web App, and PM0.1 Air Quality Prediction</i>
+🌱 Balanced interests in <b>Frontend & Backend Development</b>, <b>IoT with Arduino & ESP32</b>, <b>Software Testing & Automation</b>, and <b>IT Support & Networking</b><br/>
+💻 Dedicated to continuous learning and building effective technology solutions
 </p>
 
 ---
@@ -29,8 +28,47 @@ My name is Thanakrit Sricharung, a student at the School of Informatics, majorin
 
 ---
 
+<h3 align="left">📝 About Me</h3>
+
+<p>
+My name is <b>Thanakrit Sricharung</b>, a third-year student at the <b>School of Informatics, Walailak University</b>.  
+I have strong interests in <b>Web & Mobile Development</b>, <b>IoT Projects</b>, <b>Software Testing & Automation</b>, and <b>IT Support & Technical Services</b>.  
+I aim to apply my skills to create practical and effective software and technology solutions.
+</p>
+
+---
+
+<h3 align="left">🛠️ Skills</h3>
+
+- **Web & Mobile Development**: HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js, Angular, React Native  
+- **Backend & Database**: Node.js, Express.js, NestJS, MongoDB, MySQL, API Integration  
+- **IoT Development**: Arduino, ESP32, Firebase (Cloud Integration)  
+- **Cloud & Tools**: Docker, GitHub, Ngrok, Google Apps Script  
+- **Testing & Automation**: Postman, Insomnia, Swagger API, LINE Bot Development, Selenium  
+- **IT Support & Technician**: Computer installation & maintenance, hardware/software troubleshooting, end-user support  
+- **Networking**: Basic network setup & administration, configuring routers & switches, network troubleshooting  
+
+---
+
+<h3 align="left">🚀 Projects</h3>
+
+- **Senior Project**: Machine Learning Model for Indoor PM0.1 Prediction using outdoor factors  
+- **Thailand Research Expo 2025**: Real-time PM0.1 Monitoring & Forecasting System  
+- **Webapp CRUD**:  
+  - Global EV Sales (2010–2024)  
+  - Hospital Patient Data Management  
+  - Stress Assessment with music & games  
+- **Chatbots**:  
+  - LINE Bot for sugar intake calculation & summary reports  
+  - Discord Bot for external alerts  
+- **IoT Projects**: Arduino & ESP32 sensor integration with cloud services  
+- **IT & Networking**: Computer assembly & maintenance, basic network setup & troubleshooting  
+
+---
+
 <h3 align="left">🚀 Languages and Tools</h3>
 <p align="center">
+  <!-- ใช้โค้ด Languages and Tools ของคุณตามที่ให้มา -->
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
